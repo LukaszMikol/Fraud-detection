@@ -1,7 +1,6 @@
 # Fraud detection
 
 
-# Movies
 <h1><b>Creates the best model for credit fraud detection, using Autodecoders and Neural Networks  </b> - practical project</h1>
 
 <p>Structers:</b>
