@@ -3,7 +3,7 @@
 
 <h1><b>Creates the best model for credit fraud detection, using Autodecoders and Neural Networks  </b> - practical project</h1>
 
-<p>Structers:</b>
+<p>File structure:</b>
 <ol>
 	<li><b>img</b></li>
 	Folder with images.
