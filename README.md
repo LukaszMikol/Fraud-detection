@@ -15,11 +15,15 @@
 	The main program and the Jupyter Notebook file.
 </ol>
 <br>
-<ol>
-	<li><b>How run project:</b></li>
-	You need to open the jypter notebook file in jupyter notebook or google colab. 
-	<li><b>Libraries</b></li>
-	Project used libaries as: Keras, Scikit-learn, pyod, Pandas, Matplotlib, Plotl.
-	<li><b>Tools:</b></li>
-	Pycharm, Jupyter Notebook.
-</ol>
+
+
+## Data from Kaggle
+<p>Link: https://www.kaggle.com/mlg-ulb/creditcardfraud</p>
+ 
+<br>
+## Libraries
+Project used libaries as: Keras, Scikit-learn, pyod, Pandas, Matplotlib, Plotl.
+
+<br>
+## Running the project:
+Run the main file: <i>fraud_detection.ipynb</i> using Jupyter Notebook or Google Colab
