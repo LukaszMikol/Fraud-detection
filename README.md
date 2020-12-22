@@ -23,7 +23,7 @@
 <br>
 
 ## Libraries
-Project used libaries as: Keras, Scikit-learn, pyod, Pandas, Matplotlib, Plotl.
+Project used libaries as: Keras, Scikit-learn, pyod, Pandas, Matplotlib, Plotly.
 
 <br>
 
